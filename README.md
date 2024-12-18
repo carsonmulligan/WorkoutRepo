@@ -1,3 +1,8 @@
+
+When you put code between them, it looks like this:
+
+```python
+
 workout_plan = {
     "Monday (Chest)": {
         "Warm-Up": "Chest Press Machine (Light) - 2 sets of 12-15 reps",
