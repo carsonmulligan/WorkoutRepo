@@ -1,6 +1,6 @@
 # Optimized Weekly Machine-Based Lifting Plan
 # Each day focuses on one muscle group with a structured warm-up, 5-6 workouts, and cardio
-
+´´´´´
 def weekly_workout_split():
     workout_plan = {
         "Monday (Chest)": {
