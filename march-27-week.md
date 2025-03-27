@@ -39,7 +39,7 @@
 ---
 
 ## THU - Upper Pull
-- [ ] Pull-ups - 3-4 x Max
+- [x] Pull-ups - 3-4 x Max Lat pull down 156
 - [ ] DB Rows - 4 x 10/side — `Weight: ___`
 - [ ] Reverse DB Flys - 3 x 12 — `Weight: ___`
 - [ ] Renegade Rows - 3 x 10 — `Weight: ___`
