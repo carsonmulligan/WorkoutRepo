@@ -43,8 +43,8 @@
 - [x] DB Rows - 4 x 10/side — `Weight: 35 on bench both at aame time ___`
 - [x] Reverse DB Flys - 3 x 12 — `Weight: 20`
 - [x] Renegade Rows - 3 x 10 — `Weight: 30`
-- [ ] DB Curls - 3 x 12 — `Weight: ___`
-- [ ] Hammer Curls - 3 x 12 — `Weight: ___`
+- [x] DB Curls - 3 x 12 — `Weight: 35`
+- [x] Hammer Curls - 3 x 12 — `Weight: 35`
 
 ---
 
