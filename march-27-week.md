@@ -39,7 +39,7 @@
 ---
 
 ## THU - Upper Pull
-- [x] Pull-ups - 3-4 x Max Lat pull down 156
+- [x] Lat pull down - 3 x 4 @ 156
 - [x] DB Rows - 4 x 10/side — `Weight: 35 on bench both at aame time ___`
 - [x] Reverse DB Flys - 3 x 12 — `Weight: 20`
 - [x] Renegade Rows - 3 x 10 — `Weight: 30`
@@ -49,9 +49,9 @@
 ---
 
 ## FRI - Sprint Intervals
-- [ ] Treadmill: 30s sprint / 60s walk x 6-8
-- [ ] Incline Walk - 15 min
-- [ ] Stretch or foam roll - 10 min
+- [x] Jumprope 2.5 minutes
+- [ ] KB Swings 3x15 @ 45lbs
+- [ ] Sprints 7 x around building
 
 ---
 
