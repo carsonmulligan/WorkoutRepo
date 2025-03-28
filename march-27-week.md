@@ -51,7 +51,7 @@
 ## FRI - Sprint Intervals
 - [x] Jumprope 2.5 minutes
 - [x] KB Swings 3x15 @ 45lbs
-- [ ] Sprints 7 x around building
+- [x] Sprints 2 x around building
 
 ---
 
