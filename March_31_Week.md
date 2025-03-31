@@ -1,7 +1,7 @@
 # Weekly Workout Plan (Adjusted for Intensity & Swimming)
 
 ## WEEKLY SPLIT
-- [ ] **Mon:** Upper Push (Chest, Shoulders, Triceps)
+- [x] **Mon:** Upper Push (Chest, Shoulders, Triceps)
 - [ ] **Tue:** Lower Body (Legs, Glutes, Calves) + Swim (Night)
 - [ ] **Wed:** Core + Mobility (7,500+ steps)
 - [ ] **Thu:** Upper Pull (Back, Biceps)
@@ -12,12 +12,12 @@
 ---
 
 ## MON - Upper Push (Intensity Focus)
-- [ ] Flat Dumbbell Flys: 3 x 6–8 (Heavy) - Weight: ___ lbs
-- [ ] Incline Dumbbell Press: 3 x 6–8 (Heavy) - Weight: ___ lbs
-- [ ] Seated Dumbbell Shoulder Press: 3 x 8 - Weight: ___ lbs
-- [ ] Dumbbell Lateral Raise: 3 x 10 - Weight: ___ lbs
-- [ ] Bench Dips: 3 x 10 (Weighted if possible) - Weight: ___ lbs
-- [ ] Overhead Dumbbell Triceps Extension: 3 x 8 - Weight: ___ lbs
+- [x] Flat Dumbbell Flys: 3 x 6–8 (Heavy) - Weight: 20-25-30 lbs
+- [x] Incline Dumbbell Press: 3 x 6–8 (Heavy) - Weight: 35-40-50 lbs
+- [x] Seated Dumbbell Shoulder Press: 3 x 8 - Weight: 25-30-35 lbs
+- [x] Dumbbell Lateral Raise: 3 x 10 - Weight: 15-15-15 lbs
+- [x] Bench Dips: 3 x 10 (Weighted if possible) - Weight: Bodyweight lbs
+- [x] Overhead Dumbbell Triceps Extension: 3 x 8 - Weight: 35-45-50 lbs
 
 ---
 
