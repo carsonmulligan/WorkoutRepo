@@ -27,7 +27,7 @@
 - [x] Walking Lunges: 3 x 12 steps (Weighted) - Weight: 0-40-45 lbs
 - [x] Leg Extension: 3 x 10 - Weight: 20-84-96 lbs
 - [x] Leg Curl: 3 x 10 - Weight: 96-108-120 lbs
-- [x] Standing Calf Raises: 3 x 12 - Weight: ___ lbs
+- [x] Standing Calf Raises: 3 x 12 - Weight: 45-45-45 lbs
 - [ ] Swim Session (Night)
 
 ---
