@@ -22,8 +22,8 @@
 ---
 
 ## TUE - Lower Body + Swim (Intensity Focus)
-- [ ] Goblet Squats: 3 x 8 (Heavy) - Weight: ___ lbs
-- [ ] Dumbbell Step-Ups: 3 x 8 per leg (Heavy) - Weight: ___ lbs
+- [x] Goblet Squats: 3 x 8 (Heavy) - Weight: 40-50-65 lbs
+- [x] Dumbbell Step-Ups: 3 x 8 per leg (Heavy) - Weight: 0-25-40 lbs
 - [ ] Walking Lunges: 3 x 12 steps (Weighted) - Weight: ___ lbs
 - [ ] Leg Extension: 3 x 10 - Weight: ___ lbs
 - [ ] Leg Curl: 3 x 10 - Weight: ___ lbs
