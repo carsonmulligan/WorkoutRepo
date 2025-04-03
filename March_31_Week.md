@@ -42,10 +42,10 @@
 
 ## THU - Upper Pull (Intensity Focus)
 - [x] Lat Pull Downs: 3 x 8 (Heavy) - Weight: 72-108-144 6 on last set lbs
-- [ ] Dumbbell Rows: 3 x 8 per side (Heavy) - Weight: ___ lbs
-- [ ] Reverse Dumbbell Flys: 3 x 10 - Weight: ___ lbs
+- [x] Dumbbell Rows: 3 x 8 per side (Heavy) - Weight: 45-55-65 lbs
+- [x] Reverse Dumbbell Flys: 3 x 10 - Weight: 15-25 lbs
 - [ ] Renegade Rows: 3 x 8 (Heavy) - Weight: ___ lbs
-- [ ] Dumbbell Curls: 3 x 8 (Heavy) - Weight: ___ lbs
+- [x] Dumbbell Curls: 3 x 8 (Heavy) - Weight: 25-30-35 lbs
 - [ ] Hammer Curls: 3 x 8 - Weight: ___ lbs
 
 ---
